@@ -1,5 +1,5 @@
 (#sec_accelerators)=
-# Part 2b: Particle accelerators
+## Part 2b: Particle accelerators
 
 ## Accelerators
 
