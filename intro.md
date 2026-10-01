@@ -1,4 +1,4 @@
-# Welcome to MPS 105: Frontiers in Physics (Particle Physics at the High Energy Frontier)
+# Welcome to MPS 137: Frontiers in Physics (Particle Physics at the High Energy Frontier)
 
 You can find notes covering the "Particle Physics at the High Energy Frontier" part of the course here. The combination of these notes and the lecture slides should give you all the material you need to cover this course. No additional reading is required for this section of the course, though thoughout the notes I will add references to some books you could look at to get a different angle or a different decription.
 

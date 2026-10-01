@@ -160,11 +160,12 @@ Here, $E$ is the energy, $p$ is momentum, $m$ is mass and $c$ is the speed of li
 
 $$
 \begin{align*}
-m c^2 &= 1.67 \times 10^{-27} kg \times \left( 3 \times 10^8 m/s \right)^2 = 1.5 \times 10^{-9} J \\
+m c^2 &= 1.67 \times 10^{-27} kg \times \left( 3 \times 10^8 m/s \right)^2 = 1.5 \times 10^{-9} J / c^2 \\
 1.5 \times 10^{-9} J &= 1.5 \times 10^{-9} / 1.6 \times 10^{-19}\; \textrm{eV} = 939 \;\; \textrm{MeV}
 \end{align*}
 $$
 
+Note: These unit conversions are slightly unusual but they always proceed via the same pattern: convert into an energy using $E=pc$ or $E=mc^2$, adding factors of $c$ or $c^2$ into the unit such that nominally the quantity stays a "momentum" or a "mass" in terms of units (technically adding these factors cancels out the $c^2$ that was multiplied as well). Once we have an energy-like value, it can be converted into eV by division of $1.6 \times 10^{-19}$. Afterwards, $c=1$ to not have to carry it "around"/ write it down all the time. 
 :::
 
 
@@ -241,7 +242,7 @@ There is more we can learn, again using energy conservation. When the positively
 
 Using this approach we can estimate the size of an atomic nuclei as we can estimate how close the $\alpha$ particles get towards it.
 
-(sizeofAU)=
+(#sizeofAU)=
 ```{admonition} Calculation
 
 <b>Distance of closest approach in the Geiger Marsden Experiment</b>
