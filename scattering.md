@@ -118,7 +118,7 @@ $$ E = m c^2$$
 
 Note: This is the relationship for in the non-relativistic case (i.e. momentum $p$ << energy). Here, momemtum << energy means that the energy is at least 2 orders of magnitude larger than the momentum. This part of the energy can be thought of as the *potential* energy of a particle.
 
-The *kinetic* energy of a particle is defined as $E=pc$. So therefore once the momentum (or rather the kinetic energy) approaches the mass (or the potential energy) of a particle ($p \sim E$), the total energy of a particle is defined as the squared sum of these terms: 
+The *kinetic* energy of a particle is defined as $E=pc$. So therefore once the momentum (or rather the kinetic energy) approaches the mass (or the potential energy) of a particle ($p \sim E$), the total energy of a particle is defined as the squared sum of these terms (due to special relativity, which yoiu will learn about in Y2): 
 
 $$ E^2 = p^2 c^2 + m^2 c^4$$
 
