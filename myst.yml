@@ -15,9 +15,10 @@ project:
     - file: xsec.md
     - file: Accelerators.md
     - file: SM.md
+    - file: BeyondSM.md
     #- file: Techniques.md
-    #- file: wzmeasurement.md
-    #- file: BSM.md
+    #- file: wzmeasurement2.md
+    #- file: TheFrontier.md 
     
 site:
   template: book-theme

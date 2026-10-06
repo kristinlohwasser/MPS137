@@ -116,11 +116,11 @@ Similarly, the mass of a particle is defined based on their energy as:
 
 $$ E = m c^2$$
 
-Note: This is the relationship for in the non-relativistic case (i.e. momentum $p$ << energy). Here, momemtum << energy means that the energy is at least 3 orders of magnitude larger than the momentum. This part of the energy can be thought of as the *potential* energy of a particle.
+Note: This is the relationship for in the non-relativistic case (i.e. momentum $p$ << energy). Here, momemtum << energy means that the energy is at least 2 orders of magnitude larger than the momentum. This part of the energy can be thought of as the *potential* energy of a particle.
 
-The *kinetic* energy of a particle is defined as $E=pc$. So therefore once the momentum (or rather the kinetic energy) approaches the mass (or the potential energy) of a particle ($p \sim E$), the total energy of a particle is defined as: 
+The *kinetic* energy of a particle is defined as $E=pc$. So therefore once the momentum (or rather the kinetic energy) approaches the mass (or the potential energy) of a particle ($p \sim E$), the total energy of a particle is defined as the squared sum of these terms: 
 
-$$ E = p c + m c^2$$
+$$ E^2 = p^2 c^2 + m^2 c^4$$
 
 | Quantity  |	Unit in Particle Physics	  | SI-Unit  |
 |-----------|-------------------------------------|-----------|

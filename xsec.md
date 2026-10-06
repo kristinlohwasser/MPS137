@@ -1,4 +1,4 @@
-## Part 2a: General Basics of scattering experiments in High energy physics
+# Part 2a: General Basics of scattering experiments in High energy physics
 
 ## Cross-sections and their measurement
 
