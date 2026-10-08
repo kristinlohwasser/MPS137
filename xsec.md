@@ -173,7 +173,7 @@ This formula analytically describes Rutherford scattering which is the elastic s
 * Relate incident particle flux ($J$), target particle density ($n_b$), target thickness ($\Delta x$), and inclusive cross-section ($\sigma_{\text{inc}}$) to calculate particle beam attenuation or total scattering rate.
 
 
-* Formulate the relationship between differential cross-section ($\frac{\text{d}\sigma}{\text{d}\Omega}$), solid angle ($\Delta \Omega$), incident flux, target properties, and the fraction of particles scattered into a detector.
+%* Formulate the relationship between differential cross-section ($\frac{\text{d}\sigma}{\text{d}\Omega}$), solid angle ($\Delta \Omega$), incident flux, target properties, and the fraction of particles scattered into a detector.
 
 
 
