@@ -48,10 +48,17 @@ There are more considerations that play a role: In Rutherford's experiment there
 
 Circular colliders are more economical. Here (Figure right) particle beam are kept on a circular path and when the beams pass each they are kept onto the circular path and go into anouther round where they might collide. This means, the same particle keep in circulating in the ring, often for hours or days and less energy needs to be expanded to produce and accelerate the beams.
 
-<img src="SLC_1.png" alt="SLAC linear e+e- collider" width="300"/>
-<img src="LEP-complex.png" alt="LEP circular e+e- collider" width="300"/>
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="SLC_1.png" alt="SLAC linear e+e- collider" width="300"/>a) SLAC linear e+e- collider 
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="LEP-complex.png" alt="LEP circular e+e- collider" width="300"/>b) LEP circular e+e- collider
+     </div>
+     </div>
+</div>
 
-Two types of colliders: A lineary collider at SLAC, Berkeley and the LHC's predecessor the circular collider LEP at CERN, Geneva. (Pictures taken from {cite}`Shiltsev:2713605`)
+Two types of colliders: A linear collider at SLAC, Berkeley and the LHC's predecessor the circular collider LEP at CERN, Geneva. (Pictures taken from {cite}`Shiltsev:2713605`)
 
 However, keeping the particles on that beneficial circular path comes with its own challenges but these can be solved using a fundamental physical principle: The Lorentz-Force 
 
@@ -176,4 +183,48 @@ $$
 $N_1$ and $N_2$ are the number of particles in the two colliding
 bunches, $f$ is the revolution frequency and $N_b$ is the number
 of bunches in one beam (each particle beam consists of packets of beam particles, there is no continuous beam in modern colliders due to how the acceleration is implemented). This formula practically considers one bunch travelling along the collider ring, passing all the bunches in the other beam. $4 \pi \sigma_x \sigma_y$ is a normalisation parameter that accounts for the fact that the beams are have a Gaussian profile and are not uniform.
+
+
+
+
+```{admonition} Learning objectives
+:class: Tip
+
+
+### Energy and Collision Kinematics
+
+* Compare fixed-target and head-on collider geometries in terms of kinetic energy transfer efficiency and available center-of-mass energy.
+
+
+* Contrast the operational advantages and physical limitations of linear colliders versus circular colliders.
+
+
+### Beam Dynamics in Magnetic Fields
+
+* Apply the Lorentz force equation ($F = qvB$) and centripetal force ($F = m\frac{v^2}{R}$) to describe the circular trajectory of a charged particle in a uniform magnetic field.
+
+
+* Derive and use the relativistic momentum-radius relationship ($R = \frac{p}{qB}$) to calculate bending radius or magnetic field strength for high-energy particle accelerators.
+
+
+### Accelerator Components and Infrastructure
+
+* Identify the key functional components of a circular accelerator ring, including dipole bending magnets, quadrupole/multipole focusing magnets, injection magnets, extraction/beam-dump magnets, and radio-frequency (RF) accelerating cavities.
+
+
+%* Distinguish between ideal theoretical magnetic coverage and practical accelerator layouts containing non-bending drift regions and specialized components.
+
+
+### Reaction Rates and Luminosity
+
+* Relate event rates ($R$), particle flux ($J$), total cross-section ($\sigma$), and target particle number ($N$) for fixed-target scattering experiments.
+
+
+* Define instantaneous and integrated luminosity ($L$) for particle colliders and use the expression $N = \sigma L$ to calculate expected collision event totals.
+
+* Identify how beam parameters—such as bunch population ($N_1, N_2$), bunch count ($N_b$), revolution frequency ($f$), and transverse Gaussian beam dimensions ($\sigma_x, \sigma_y$)—determine instantaneous luminosity.
+
+
+
+```
 

@@ -279,3 +279,54 @@ Rutherford's experiments and similar scattering experiments of the time were sem
 This eventually lead to the discovery of new particles in photographs taken of cosmic rays: namely, the positron (the electron's anti-particle) and the muon. On the photographs, the trajectory of these particles were found that could not be identified with any of the known particles: The positron looked like an electrons but had opposite charge (evidenced by deflection in a magnetic field caused by the Lorentz-Force which we will cover later in this course). The muon was heavier than an electron but lighter than proton and first interpreted as a proton with some biases or systematics influencing the measurement. Today, it is understood that these particles are produced in collisions of highly energetic particles from out of space with the earth's atmosphere. The photographs also showed a third propoerty of fundamental particles: life-time. Some particle (such as the muon) are only stable for a characteristic amount of time until they decay.  
 
 
+
+```{admonition} Learning objectives
+:class: Tip
+
+### Microscopic Structure and Resolution Limits
+
+%* Explain the physical resolution limits of light microscopy and justify using shorter-wavelength probes, such as X-rays, electrons, and protons, to resolve atomic and subatomic structures.
+
+
+* Calculate the de Broglie wavelength ($\lambda = \frac{h}{p}$) of moving particles to determine the feature sizes they can probe.
+
+### Scale Conversions and Special Units
+
+* Express extreme physical length and energy scales using SI unit prefixes and scientific or computer notation.
+
+
+* Convert physical quantities of mass, momentum, and energy between SI units and particle physics units ($\text{eV}$, $\text{MeV}/c$, and $\text{MeV}/c^2$).
+
+
+* Apply the relativistic energy-momentum-mass relation ($E^2 = p^2 c^2 + m^2 c^4$) and determine when the non-relativistic ($E = m c^2$) or ultra-relativistic ($E = p c$) approximations are valid.
+
+
+
+### The Geiger-Marsden Experiment and Rutherford Scattering
+
+* Describe the experimental arrangement, materials, and measurement techniques used in the Geiger-Marsden alpha-particle scattering experiment.
+
+
+* Explain how observations of large-angle alpha-particle deflections led to the conclusion that there was a dense small nuclei core in the larger atom. 
+
+
+* Apply the principles of energy and momentum conservation to model elastic collisions in particle scattering.
+
+
+* Demonstrate mathematically why scattering at angles greater than 90° requires the target nuclear mass to be greater than the incident particle mass ($m_t > m_\alpha$).
+
+
+* Calculate the distance of closest approach for charged particles by equating kinetic energy to electrostatic potential energy ($U = \frac{q_\alpha Q_{\text{Au}}}{4 \pi \epsilon_0 r}$) to estimate an upper bound on nuclear size.
+
+
+
+### Subatomic Particle Properties and Discovery
+
+* Identify key properties used to characterize subatomic particles, including electric charge, mass, and decay lifetime.
+
+
+* Describe the historical role of cosmic ray observation techniques in discovering fundamental particles such as the positron and muon.
+
+
+```
+

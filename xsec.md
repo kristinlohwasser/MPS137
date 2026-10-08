@@ -14,11 +14,11 @@ One barn (abbr. b) is equal to 10$^{-28}$ m$^2$ or 10$^{-24}$ cm$^2$. This is a 
 
 ### Measurement of cross-sections
 
-How can we determine a cross-section? The easiest way to conceptualize how cross-sections and their measurements work, is to look at inclusive (or integral) cross-section. Figure a) demonstrates the principle of the measurement of an inclusive cross-section. Consider a flux of particles $J = \Delta N / \Delta t$ passes though the a target (in Rutherford: the foil). The particle flux decreases as:
+How can we determine a cross-section? The easiest way to conceptualize how cross-sections and their measurements work, is to look at inclusive (or integral) cross-section. Figure a) demonstrates the principle of the measurement of an inclusive cross-section. Consider a flux of particles $J = \Delta N / \Delta t$ passes though the target area (in Rutherford: the foil). The particle flux decreases as (i.e. changes by an infinitisimal amount):
 
-$\Delta J = -J \sigma_{inc} n_b \Delta x = -J \sigma_{inc} N_b$
+$d J = -J \sigma_{inc} n_b dx = -J \sigma_{inc} N_b$
 
-with J being the flux, $\sigma_{inc}$ the inclusive cross-section, $n_b$ the particle density in the target and $\Delta x$ being the thickness of the target. $n_b \Delta x$ is therefore effectively the number of target particles in the path of the flux (the number of particles passing in a unit of time). Basically you determine the inclusive cross-section by measuring how many particle where scattered out of the beam. This is corresponding to the rate of particles being scattered depending on initial flux, target particles and cross-section.
+with J being the flux (per second impacting on an area), $\sigma_{inc}$ the inclusive cross-section, $n_b$ the particle density in the target and $d x$ being the thickness of the target (which can be increased in infinitissimal amount or finally be integrated over). $n_b dx$ is therefore effectively the number of target particles in the path of the flux (the number of particles passing in a unit of time). Basically you determine the inclusive cross-section by measuring how many particle where scattered out of the beam. This is corresponding to the rate of particles being scattered depending on initial flux, target particles and cross-section.
 
 <img src="inclcrosssection.png" alt="Cross-section measurements" width="500"/>
 
@@ -28,7 +28,7 @@ The differential cross-section is determined as the particles flux scattered int
 
 $$\frac{\Delta J}{J A} = n_b \Delta x \frac{ d \sigma}{d \Omega} \Delta \Omega$$
 
-with $J$ as the flux, A the area of the detector, $n_b \Delta x$ the number of target particles, $\frac{ d \sigma}{d \Omega}$ the differential cross-section which depends on the interaction potential between the scattering particles A and B. $\frac{\Delta J}{J A}$ is the fraction of incident particles that is scattered into the solid angle $\Delta \Omega$ accepted by the detector.
+with $J$ as the flux, A the area of the detector, $n_b \Delta x$ the number of target particles, $\frac{ d \sigma}{d \Omega}$ the differential cross-section which depends on the interaction potential between the scattering particles A and B. $\frac{\Delta J}{J A}$ is the fraction of incident particles that is scattered into the solid angle $\Delta \Omega$ accepted by the detector. Note that $\Delta J$ here is the actual number of events per second, not the flux. $\frac{ d \sigma}{d \Omega}$ denotes how the cross-section changes for infinitissimal changes of the angle $\Omega$. 
 
 ## The interpretation of the Geiger-Marsden experiment by Rutherford
 
@@ -66,6 +66,8 @@ From geometrical considerations (i.e. just defining the rate of particles scatte
 \begin{align*}
 \frac{\Delta J}{J A} = n_G \Delta x \frac{\mathrm{d}\sigma}{\mathrm{d}\Omega} \Delta \Omega 
 \end{align*}
+
+(note that Delta J 
 ```
 
 ```{admonition}
@@ -149,4 +151,47 @@ This finally yields:
 ```
 
 This formula analytically describes Rutherford scattering which is the elastic scattering of charged particles by the Coulomb interaction, sometimes also called Coulomb scattering.
+
+
+
+```{admonition} Learning objectives
+:class: Tip
+
+
+
+### Cross-Sections and Units
+
+* Define inclusive (integral) and differential cross-sections and explain their physical significance as measures of interaction probability or effective target area.
+
+
+* Express cross-section values using standard nuclear and particle physics units, including barns ($\text{b}$), millibarns ($\text{mb}$), nanobarns ($\text{nb}$), and picobarns ($\text{pb}$), converting between these and $\text{m}^2$ or $\text{cm}^2$.
+
+
+
+### Experimental Measurement of Cross-Sections
+
+* Relate incident particle flux ($J$), target particle density ($n_b$), target thickness ($\Delta x$), and inclusive cross-section ($\sigma_{\text{inc}}$) to calculate particle beam attenuation or total scattering rate.
+
+
+* Formulate the relationship between differential cross-section ($\frac{\text{d}\sigma}{\text{d}\Omega}$), solid angle ($\Delta \Omega$), incident flux, target properties, and the fraction of particles scattered into a detector.
+
+
+
+### Rutherford Scattering Derivation and Analysis
+
+* State the simplifying physical assumptions underlying Rutherford scattering (no target recoil, negligible electron shielding, pure central Coulomb potential).
+
+
+%* Relate the impact parameter ($b$) to the scattering angle ($\theta$) for a central $1/r$ Coulomb potential.
+
+
+%* Derive the geometric relationship connecting differential cross-section to impact parameter: $\frac{\text{d}\sigma}{\text{d}\Omega} = \frac{b}{\sin\theta} \left\vert{} \frac{\text{d}b}{\text{d}\theta} \right\vert{}$.
+
+
+* **Apply** (NOT: derive) the differential cross-section formula for Rutherford scattering:
+
+$$\frac{\text{d}\sigma}{\text{d}\Omega} = \frac{1}{4} \left( \frac{q Q}{4\pi \epsilon_0 m v_0^2} \right)^2 \frac{1}{\sin^4(\theta/2)}$$
+
+
+```
 

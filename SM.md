@@ -239,3 +239,64 @@ Scattering diagram: Description of the reactions as two fundamental particles ex
 The vertices at in these Feynman diagrams act as "equal signs" {--} energy, momentum and charge are preserved at these vertices. 
 
 Generally, fundamental particles are not necessarily directly detectable. Heavier particles decay into lighter particles. Only those particles from the first generation, i.e. electron + electron neutrino, u/d quark (inside proton) are stable. The decays of particles can also be described by Feyman diagrams with similar perservation of energy, momentum and charge at the vertices. In fact, these decays are generally ruled by "selection rules" (due to quantum numbers related to forces as well as due to symmetry principles). We have energy and momentum conservation (general mechanics), as well as charge conservation (electromagnetism) and Lepton/Baryon number conservation.
+
+
+
+```{admonition} Learning objectives
+:class: Tip
+
+ ### Elastic vs. Inelastic Collisions
+
+* Distinguish between elastic and inelastic collisions in terms of kinetic energy conservation and internal energy conversion ($E_{\text{kin}}^{\text{initial}} = E_{\text{kin}}^{\text{final}} + E_{\text{internal}}$).
+
+
+* Interpret energy spectra of scattered particles to identify elastic peaks, excited nuclear states, and particle creation thresholds.
+
+
+### Substructure Probing and Particle Resonances
+
+* Explain how deviations from the Rutherford differential cross-section formula at high energies or large angles signal nuclear penetration and short-range nuclear forces.
+
+
+* Describe the Deep Inelastic Scattering (DIS) experiments at SLAC that provided evidence for point-like proton substructure (quarks).
+
+
+* Extract physical properties of unstable particles from resonance peaks in invariant mass/energy distributions, including mass (peak position), lifetime ($\Gamma = \hbar / \Delta t$ via peak width), and production cross-section (peak area/luminosity).
+
+
+
+### Standard Model Organization and Matter Content
+
+* Classify fundamental fermions into leptons and quarks, specifying their electric charges, generation structure, and antiparticles.
+
+
+* Contrast the characteristics of everyday matter (1st generation fermions, photons) with higher-generation fermions and heavy unstable particles.
+
+
+
+### Fundamental Forces and Gauge Bosons
+
+* Compare the four fundamental forces (strong, electromagnetic, weak, gravitational) in terms of relative strength, range, exchange bosons, and affected particles.
+
+
+* Contrast the electromagnetic force (mediated by neutral, massless, non-self-interacting photons) with the strong force (mediated by color-charged gluons with self-interactions).
+
+
+* Explain color charge, confinement of quarks inside hadrons (baryons and mesons), and calculate strong force scaling with distance ($F \propto r$).
+
+
+* Explain the role of the Higgs boson and the Higgs mechanism in generating mass for fundamental particles.
+
+
+
+### Feynman Diagrams and Conservation Laws
+
+* Interpret basic Feynman diagrams (s-channel resonance/annihilation vs. t-channel scattering) representing particle interactions and decays.
+
+
+* Apply fundamental conservation laws-energy, momentum, electric charge, lepton number, and baryon number-to evaluate allowed particle interaction and decay vertices.
+
+
+
+```
+
