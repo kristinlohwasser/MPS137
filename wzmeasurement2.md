@@ -787,8 +787,8 @@ $$
 $$\downarrow$$
 
 $$
-\boxed{Correct for detector efficiency and acceptance
-}$$
+\boxed{\mathrm{Correct for detector efficiency and acceptance
+}}$$
 
 $$\downarrow$$
 
