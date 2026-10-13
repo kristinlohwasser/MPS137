@@ -47,7 +47,7 @@ The Standard Model does not provide a mechanism to produces the current matter-a
 
 ### Dark Matter
 
-In the Axion part of the course, Ed Daw discussed evidence for Dark Matter [{cite}`DMEd`].
+%In the Axion part of the course, Ed Daw discussed evidence for Dark Matter [{cite}`DMEd`].
 
 Whilst some theorist try to solve the Dark Matter problem by modifying the theory of Gravity, these attempts have often been found to be insuffient and only to describe some aspects of the observations but falling short of describing other experimental findings. A "particle"-type explanation of Dark Matter is generally prefered by the experimental data.
 
@@ -79,3 +79,51 @@ In 2020, the first measurements of the dedicated muon "g-2" experiment were publ
 <img src="gminus2.png" alt="Comparison of g-2 for SM predictions and the experimental measurements" width="550"/> Comparison of the Standard Model prediction for the anomalous moment of the muon (shown on the $x$-axis) with the results of the measurement (taken from {cite}`gminus2`).
 
 [^4]: These calculations are not trivial and dedicated techniques to tackle them are needed. This is very much the topic of theoretical physics.
+
+
+
+```{admonition} Learning objectives
+:class: Tip
+
+
+### New Physics Signatures and Resonance Dynamics
+
+* Explain how experimental deviations from predicted continuous scattering distributions signal new interaction potentials or unknown phenomena at high energy or small distance scales.
+
+
+* Describe the conditions for resonant particle production in inelastic collisions such as $pp \rightarrow ee$.
+
+
+* Extract particle mass from peak position, lifetime from peak width, and production cross-section from peak area/integral in a scattering spectrum.
+
+
+
+### Matter-Antimatter Asymmetry
+
+%* Outline the theoretical prediction of antimatter by Dirac, its experimental discovery by Anderson, and the principles of pair creation and annihilation.
+
+
+* Contrast the cosmological expectation of equal matter and antimatter production in the Big Bang with the observational dominance of matter in the universe.
+
+
+* Identify the absence of observable boundary annihilation signals and explain why the Standard Model fails to account for the observed matter-antimatter asymmetry.
+
+
+
+### Dark Matter and the Generation Puzzle
+
+* Explain why particle-type explanations of Dark Matter (such as axion-like particles searched for at the LHC) are preferred over modified gravity models.
+
+
+* Describe the generation puzzle in the Standard Model regarding the unexplained existence and mass pattern of three fundamental fermion generations.
+
+
+
+### Grand Unification and Experimental Anomalies
+
+* Describe how the energy dependence of force coupling constants motivates Grand Unified Theories (GUTs) and how GUTs could reduce the 19 free parameters of the Standard Model.
+
+
+* Analyze how experimental discrepancies - such as the muon anomalous magnetic dipole moment ($g-2$) - serve to test the limits of the Standard Model and drive refinements in the theory.
+
+```

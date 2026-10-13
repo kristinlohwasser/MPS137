@@ -164,13 +164,16 @@ The strong force is mediated by the gluon. The charge of the strong force is cal
 
 The strong force is peculiar also for another reason: As the gluons carry charge themselves, this *also* means that - again unlike the photon - they can interact with themselves. A pair of gluons can exchange energy and momentum via the exchange of a third gluon. Because the gluons interact with each other, the strong force grows with energy ($\sim r$) despite gluons being massless. Think of magnetic field lines that connect the poles - the further you pull the poles apart, the more spaced out the magnetic field lines are. If you pull two quarks apart, the field lines stay close together - due to the self-interaction and attraction of the gluons. As the energy grows, the field between the quarks can grow so strong that it breaks down to create an additional pair of quarks out of the vacuum (perhaps one could think of the sparking of a very strong electromagnetic field, though this in fact a completely different phenomena).
 
-a)
 
-<img src="emfieldlines.png" alt="EM field lines" width="250"/>
-
-b)
-
-<img src="quarklines.png" alt="Quark lines" width="250"/>
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+     <img src="emfieldlines.png" alt="EM field lines" width="250"/>a)
+       </div>
+     <div style="flex:1;padding-left:10px;">
+<img src="quarklines.png" alt="Quark lines" width="250"/>b)
+     </div>
+     </div>
+</div>
 
 a) Field lines for an electrical or magnetic field: they spread as the charges move apart. (b) Field lines of the strong force stay close (note the little gluons exchanged between them) and can get so energetic that new quarks are created (taken from {cite}`Dodd_Gripaios_2020_color`)
 
