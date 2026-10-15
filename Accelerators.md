@@ -110,12 +110,12 @@ $$
 We know that $E = pc$ thus $E/c = p$. Let's insert this:
 
 \begin{align*}
-B &= \frac{7 \times 10^{12} \mathrm{eV}}{3 \times 10^{8} \mathrm{m/s }\times 1.6 \times 10^{-19} \mathrm{C} \times 27 000\,\, \mathrm{m}} \\
+B &= \frac{7 \times 10^{12} \mathrm{eV}}{3 \times 10^{8} \mathrm{m/s }\times 1.6 \times 10^{-19} \mathrm{C} \times\frac{1}{2 \pi} \times 27 000\,\, \mathrm{m}} \\
 
-&= \frac{7 \times 10^{12} \times \cancel{1.6 \times 10^{-19}} \,\,\mathrm{J}}{3 \times 10^{8} \mathrm{m/s} \cancel{\times 1.6 \times 10^{-19}}\,\,\mathrm{C} \times 27 000\,\, \mathrm{m}}\\
-&= \frac{7 \times 10^{12} \mathrm{kg \,\, m}^2\mathrm{/s}^2}{3 \times 10^{8} \mathrm{m/s}\,\, \mathrm{ A s} \times 27 000 \,\,\mathrm{m}}\\
+&= \frac{7 \times 10^{12} \times \cancel{1.6 \times 10^{-19}} \,\,\mathrm{J}}{3 \times 10^{8} \mathrm{m/s} \cancel{\times 1.6 \times 10^{-19}}\,\,\mathrm{C} \times\frac{1}{2 \pi}  \times 27 000\,\, \mathrm{m}}\\
+&= \frac{7 \times 10^{12} \mathrm{kg \,\, m}^2\mathrm{/s}^2}{3 \times 10^{8} \mathrm{m/s}\,\, \mathrm{ A s} \times \frac{1}{2 \pi}\times 27 000 \,\,\mathrm{m}}\\
 
-&= \frac{7 \times 10^{12} \mathrm{kg}\,\, \cancel{\mathrm{m}^2\mathrm{/s}} \,\, \mathrm{1/s}}{3 \times 10^{8} \cancel{\mathrm{m/s}} \,\, \mathrm{A s} \times 27 000\,\ \cancel{\mathrm{m}}}\\
+&= \frac{7 \times 10^{12} \mathrm{kg}\,\, \cancel{\mathrm{m}^2\mathrm{/s}} \,\, \mathrm{1/s}}{3 \times 10^{8} \cancel{\mathrm{m/s}} \,\, \mathrm{A s} \times \frac{1}{2 \pi} \times 27 000\,\ \cancel{\mathrm{m}}}\\
 & = 5.3 \frac{\mathrm{kg}}{\mathrm{A s}^2} = 5.3 \mathrm{T}\\
 \end{align*}
 
